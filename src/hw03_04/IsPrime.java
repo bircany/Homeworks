@@ -1,4 +1,4 @@
-package hw03;
+package hw03_04;
 
 public class IsPrime {
     public static void main(String[] args)

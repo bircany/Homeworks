@@ -1,4 +1,4 @@
-package hw03;
+package hw03_04;
 
 public class posNeg
 {

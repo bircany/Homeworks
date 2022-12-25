@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="748e53ff-9c6f-4399-91c6-0a55ca83ed48" name="Changes" comment="I did homework-6 from Efficient House">
-      <change afterPath="$PROJECT_DIR$/src/hw03/CountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw03/IsPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw03/NLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw03/Reversed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw03/SumDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw03/posNeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw05/AddingDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw05/Inflation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw05/Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="748e53ff-9c6f-4399-91c6-0a55ca83ed48" name="Changes" comment="I did homework-6 from Efficient House" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671966495217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="I did homework-6 from Efficient House">
+      <created>1671967619142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671967619142</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="748e53ff-9c6f-4399-91c6-0a55ca83ed48" name="Changes" comment="I did homework-6 from Efficient House">
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw01_02/Q9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw05/Armstrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw05/Babylonian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw05/Debt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw05/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw05/WeightOfMoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw03/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw03/IsPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw03/NLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw03/Reversed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw03/SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw03/posNeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw05/AddingDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw05/Inflation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw05/Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671965536717</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I did homework-6 from Efficient House">
+      <created>1671966495217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671966495217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
